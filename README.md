@@ -9,7 +9,7 @@ Usage:
 `python plunger.py --host es.example.com --assign_to es-data1.example.com es-data2.example.com`
 
 You can specify one ore multiple data nodes.
-If you specified several nodes then destination node will be selected randomply for each shard.
+If you specified several nodes then destination node will be selected randomly for each shard.
 
 Avalable params:
 
